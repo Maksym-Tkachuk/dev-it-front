@@ -77,3 +77,14 @@ input[type='number'] {
     scroll-behavior: auto !important;
   }
 }
+
+html,
+body {
+  height: 100vh;
+}
+
+#root {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

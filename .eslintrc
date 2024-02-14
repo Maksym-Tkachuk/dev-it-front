@@ -31,6 +31,7 @@
     "react/no-array-index-key": "off",
     "no-underscore-dangle": "off",
     "no-prototype-builtins": "off",
+    "no-console": "off",
     "prefer-destructuring": ["error", { "array": true, "object": true }],
     "padding-line-between-statements": [
       "error",

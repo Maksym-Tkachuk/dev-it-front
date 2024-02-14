@@ -1,7 +1,7 @@
-import './App.css'
+import Home from 'src/pages/Home'
 
 const App = (): JSX.Element => {
-  return <div />
+  return <Home />
 }
 
 export default App
