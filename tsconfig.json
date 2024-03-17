@@ -23,6 +23,6 @@
       "src/*": ["src/*"]
     }
   },
-  "include": ["src", "*config.ts", "app-scripts", "git-hooks-scripts"],
+  "include": ["src", "*config.ts", "git-scripts"],
   "exclude": ["node_modules", "**/*.css"]
 }
